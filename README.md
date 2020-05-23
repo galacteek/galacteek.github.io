@@ -13,6 +13,10 @@ The latest release can be downloaded in AppImage or DMG format:
 
 [![Sponsor](https://raw.githubusercontent.com/pinnaculum/galacteek/master/share/icons/donate.png)](https://github.com/sponsors/pinnaculum)
 
-# Screenshot
+![scast-browsing](https://raw.githubusercontent.com/pinnaculum/galacteek/master/share/screencasts/browsing-ipfsio.gif)
+
+![scast-fmanager](https://raw.githubusercontent.com/pinnaculum/galacteek/master/share/screencasts/filemanager-dirimport.gif)
+
+![scast-pyramid](https://raw.githubusercontent.com/pinnaculum/galacteek/master/share/screencasts/pyramid-drop1.gif)
 
 [![screenshot1](https://raw.githubusercontent.com/pinnaculum/galacteek/master/screenshots/browse-wikipedia-small.png)](https://raw.githubusercontent.com/pinnaculum/galacteek/master/screenshots/browse-wikipedia.png)
