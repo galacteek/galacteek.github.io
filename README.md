@@ -8,8 +8,10 @@ for the [IPFS](https://ipfs.io) peer-to-peer network.
 
 The latest release can be downloaded in AppImage or DMG format:
 
-- **AppImage (Linux)**: [Galacteek-0.4.29-x86_64.AppImage](https://github.com/pinnaculum/galacteek/releases/download/v0.4.29/Galacteek-0.4.29-x86_64.AppImage)
-- **DMG (MacOS)**: [Galacteek-0.4.29.dmg](https://github.com/pinnaculum/galacteek/releases/download/v0.4.29/Galacteek-0.4.29.dmg)
+- **AppImage (Linux)**: [Galacteek-0.4.30-x86_64.AppImage](https://github.com/pinnaculum/galacteek/releases/download/v0.4.30/Galacteek-0.4.30-x86_64.AppImage)
+- **DMG (MacOS)**: [Galacteek-0.4.30.dmg](https://github.com/pinnaculum/galacteek/releases/download/v0.4.30/Galacteek-0.4.30.dmg)
+
+Trouble with running the AppImage ? [Check the wiki](https://github.com/pinnaculum/galacteek/wiki/AppImage#troubleshooting) or [report an issue](https://github.com/pinnaculum/galacteek/issues/new?assignees=&labels=appimage&template=appimage-issue.md&title=Cannot+run+the+AppImage)
 
 [![Sponsor](https://raw.githubusercontent.com/pinnaculum/galacteek/master/share/icons/donate.png)](https://github.com/sponsors/pinnaculum)
 
