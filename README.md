@@ -19,7 +19,7 @@ Trouble with running the AppImage ? [Check the wiki](https://github.com/pinnacul
 
 [![Sponsor with liberapay](https://raw.githubusercontent.com/pinnaculum/galacteek/master/share/icons/liberapay.png)](https://liberapay.com/galacteek/donate)
 
-[![Sponsor with patreon](https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg)](https://patreon.com/galacteek)
+[![Sponsor with patreon](https://github.githubassets.com/images/modules/site/icons/funding_platforms/patreon.svg =90x90)](https://patreon.com/galacteek)
 
 ## Screencast
 
