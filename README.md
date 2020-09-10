@@ -10,8 +10,8 @@ Qt5-based browser for the [IPFS](https://ipfs.io) peer-to-peer network.
 
 The latest stable release can be downloaded in AppImage or DMG format:
 
-- **AppImage (Linux)**: [Galacteek-0.4.32-x86_64.AppImage](https://github.com/pinnaculum/galacteek/releases/download/v0.4.32/Galacteek-0.4.32-x86_64.AppImage)
-- **DMG (MacOS)**: [Galacteek-0.4.32.dmg](https://github.com/pinnaculum/galacteek/releases/download/v0.4.32/Galacteek-0.4.32.dmg)
+- **AppImage (Linux)**: [Galacteek-0.4.33-x86_64.AppImage](https://github.com/pinnaculum/galacteek/releases/download/v0.4.33/Galacteek-0.4.33-x86_64.AppImage)
+- **DMG (MacOS)**: [Galacteek-0.4.33.dmg](https://github.com/pinnaculum/galacteek/releases/download/v0.4.33/Galacteek-0.4.33.dmg)
 
 ## Beta
 
