@@ -31,6 +31,8 @@ Trouble with running the AppImage ? [Check the wiki](https://github.com/pinnacul
 
 ![scast-fmanager](https://raw.githubusercontent.com/pinnaculum/galacteek/master/share/screencasts/filemanager-dirimport.gif)
 
+![scast-fsharing](https://raw.githubusercontent.com/pinnaculum/galacteek/master/share/screencasts/filesharing.gif)
+
 ![scast-pyramid](https://raw.githubusercontent.com/pinnaculum/galacteek/master/share/screencasts/pyramid-drop1.gif)
 
 [![screenshot1](https://raw.githubusercontent.com/pinnaculum/galacteek/master/screenshots/browse-wikipedia-small.png)](https://raw.githubusercontent.com/pinnaculum/galacteek/master/screenshots/browse-wikipedia.png)
