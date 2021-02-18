@@ -8,11 +8,11 @@ Qt5-based browser for the [IPFS](https://ipfs.io) peer-to-peer network.
 
 ## Stable release
 
-The latest stable release can be downloaded in AppImage or DMG format:
+The latest stable release is available for Linux, MacOS and Windows:
 
-- **AppImage (Linux)**: [Galacteek-0.4.41-x86_64.AppImage](https://github.com/pinnaculum/galacteek/releases/download/v0.4.41/Galacteek-0.4.41-x86_64.AppImage)
-- **DMG (MacOS)**: [Galacteek-0.4.41-x86_64.dmg](https://github.com/pinnaculum/galacteek/releases/download/v0.4.41/Galacteek-0.4.41-x86_64.dmg)
-- **Windows**: [Galacteek-0.4.41-installer-x86_64.exe](https://github.com/pinnaculum/galacteek/releases/download/v0.4.41/Galacteek-0.4.41-installer-x86_64.exe)
+- **AppImage (Linux)**: [Galacteek-0.4.42-x86_64.AppImage](https://github.com/pinnaculum/galacteek/releases/download/v0.4.42/Galacteek-0.4.42-x86_64.AppImage)
+- **DMG (MacOS)**: [Galacteek-0.4.42-x86_64.dmg](https://github.com/pinnaculum/galacteek/releases/download/v0.4.42/Galacteek-0.4.42-x86_64.dmg)
+- **Windows**: [Galacteek-0.4.42-installer-x86_64.exe](https://github.com/pinnaculum/galacteek/releases/download/v0.4.42/Galacteek-0.4.42-installer-x86_64.exe)
 
 Trouble with running the AppImage ? [Check the wiki](https://github.com/pinnaculum/galacteek/wiki/AppImage#troubleshooting) or [report an issue](https://github.com/pinnaculum/galacteek/issues/new?assignees=&labels=appimage&template=appimage-issue.md&title=Cannot+run+the+AppImage)
 
